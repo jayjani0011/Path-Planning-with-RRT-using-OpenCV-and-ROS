@@ -1,4 +1,4 @@
-# Path-Planning-with-RRT-using-OpenCV-and-ROS
+# Path-Planning-with-RRTstar-using-OpenCV-and-ROS
 A task for Kharagpur RoboSoccer Students Group.
 
 Instructions to run the program :
